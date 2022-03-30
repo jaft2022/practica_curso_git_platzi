@@ -1,0 +1,5 @@
+#Diagrama de secuencia
+@startuml user_login
+Bob->Alice : ¡Hola!
+Bob->"Hello"
+@enduml
