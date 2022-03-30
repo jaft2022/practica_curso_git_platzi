@@ -1,1 +1,11 @@
-
+body{
+    color: royalblue;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+.image__profile{
+    border-radius: 50%;
+    height: 70px;
+    width: 70px;
+    object-fit: cover;
+}
