@@ -1,3 +1,3 @@
 Hola este es un curso de git
 impartido por freddy vega
-su edad es de 33 años
+su edad es de 33 años editado por javier
